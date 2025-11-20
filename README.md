@@ -8,7 +8,7 @@
 
 ## 1. Clone Dự Án
 
-git clone <link-repo-của-bạn>
+git clone https://github.com/kaka-1234/task-management.git
 
 ## 2. Khởi Tạo MySQL (dùng Docker)
 
